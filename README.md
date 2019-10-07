@@ -17,7 +17,7 @@ My motivation behind making this game was to practice WebGL and three.js
 
 ## How to use?
 ### https://www.jhoffis.dev/games/ldjam45/
-###The Controls:
+The Controls:
 - W: jump 
 - A: left walk
 - D: right walk
